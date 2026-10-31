@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Jhojan Trujillo developer banner">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#080f1e"/><stop offset="100%" stop-color="#172b49"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#22d3ee"/><stop offset="100%" stop-color="#3b82f6"/>
+  </linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+    <path d="M36 0H0V36" fill="none" stroke="#244260" stroke-width="0.8" opacity=".38"/>
+  </pattern>
+</defs>
+<rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+<path d="M725 0L1200 0 1200 340 900 340Z" fill="#0a1830" opacity=".48"/>
+<g fill="none" stroke="#2fa8e9" opacity=".30" stroke-width="2">
+  <circle cx="1020" cy="160" r="150"/><circle cx="1020" cy="160" r="110"/>
+  <path d="M820 160H1190M1020 -15V340"/>
+</g>
+<path d="M854 200l45-45-45-45M965 110l-45 90" fill="none" stroke="url(#line)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="70" y="65" width="72" height="5" rx="2.5" fill="#38bdf8"/>
+<text x="70" y="125" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="22" letter-spacing="4">SOFTWARE · DATA · AI</text>
+<text x="70" y="202" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700">JHOJAN TRUJILLO</text>
+<text x="72" y="255" fill="#7dd3fc" font-family="Arial,Helvetica,sans-serif" font-size="25">Systems Engineering Student</text>
+<text x="72" y="295" fill="#b5c5d9" font-family="Arial,Helvetica,sans-serif" font-size="18">Universidad del Tolima  /  Colombia</text>
+</svg>
