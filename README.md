@@ -5,8 +5,8 @@
 <h1 align="center">¡Hola! Soy Jhojan Trujillo 👋</h1>
 
 <p align="center">
-  Estudiante de Ingeniería de Sistemas en la Universidad del Tolima 🇨🇴<br/>
-  Construyo software y exploro la visión por computador, los datos y la inteligencia artificial.
+  Ingeniería de Sistemas · Universidad del Tolima<br/>
+  Java y MySQL para gestión comercial · Python y visión por computador para control por gestos
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Jhojan Stiven Trujillo García**, estudiante de Ingeniería de Sistemas. Me interesa crear aplicaciones útiles y aprender a partir de proyectos reales. En mis repositorios encontrarás desarrollo de escritorio con Java, herramientas en Python y un proyecto de control por gestos que combina visión por computador e interfaces gráficas.
+Soy **Jhojan Stiven Trujillo García**. En mi proyecto de [gestión de una tienda de zapatos](https://github.com/Trujillol123/GESTION-DE-VENTAS-Y-COMPRAS-TIENDA-DE-ZAPATOS) trabajé con productos, clientes, compras y ventas usando **Java, Swing y MySQL**. En [control por gestos](https://github.com/Trujillol123/gesture-control-system) integro cámara, seguimiento de manos e inferencia para mover el cursor con **Python, OpenCV, MediaPipe y TensorFlow**.
 
-> Me gusta entender cómo funciona un sistema, construirlo paso a paso y documentar lo aprendido.
+También tengo en desarrollo un [prototipo académico de ecuaciones diferenciales](https://github.com/Trujillol123/ecuaciones_diferenciales) con un menú para clasificación, teoría e historial de ejercicios.
 
 ## 🧰 Tecnologías y herramientas
 
@@ -52,22 +52,16 @@ Soy **Jhojan Stiven Trujillo García**, estudiante de Ingeniería de Sistemas. M
   <tr>
     <td colspan="2" valign="top" align="center">
       <a href="https://github.com/Trujillol123/ecuaciones_diferenciales"><img src="./assets/ecuaciones.svg" alt="Ver Ecuaciones diferenciales" width="50%" /></a>
-      <p>Herramienta en Python para clasificar ecuaciones y mostrar el proceso de resolución.</p>
+      <p><strong>Prototipo en desarrollo:</strong> menú en Python para clasificación, teoría e historial de ecuaciones diferenciales.</p>
       <p><a href="https://github.com/Trujillol123/ecuaciones_diferenciales"><strong>Explorar el código →</strong></a></p>
     </td>
   </tr>
 </table>
 
-## 📚 Lo que estoy explorando
-
-- **Visión por computador:** captura de cámara, seguimiento de manos e interacción por gestos.
-- **Desarrollo de software:** interfaces, lógica de negocio y persistencia de datos.
-- **Análisis de datos:** visualización y comunicación de hallazgos con herramientas como Power BI.
-
 ---
 
 <p align="center">
-  <strong>Aprendiendo, construyendo y mejorando proyecto a proyecto.</strong><br/>
+  <strong>Java · Python · MySQL · Visión por computador</strong><br/>
   <a href="https://github.com/Trujillol123?tab=repositories">Explora mis repositorios</a> ·
   <a href="https://www.linkedin.com/in/jhojan-trujillo-56975413a/">Conectemos en LinkedIn</a>
 </p>
