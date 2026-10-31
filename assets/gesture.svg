@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-label="Proyecto Control por gestos">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#0a1b35"/><stop offset="1" stop-color="#123b60"/></linearGradient></defs>
+  <rect width="800" height="420" rx="26" fill="url(#g)"/>
+  <path d="M0 330h800M0 260h800M90 0v420M180 0v420M270 0v420M360 0v420M450 0v420M540 0v420M630 0v420M720 0v420" stroke="#1e5a7f" opacity=".25"/>
+  <circle cx="618" cy="193" r="116" fill="none" stroke="#34d5f2" opacity=".3" stroke-width="2"/>
+  <circle cx="618" cy="193" r="73" fill="none" stroke="#34d5f2" opacity=".5" stroke-width="2"/>
+  <path d="M578 240c-17-20-32-47-26-58 9-14 23 4 30 13v-94c0-18 27-18 27 0v61-81c0-17 26-17 26 0v84-72c0-16 25-16 25 0v86-54c0-17 25-17 25 0v86c0 29-11 47-26 64" fill="#143c63" stroke="#7dd3fc" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="583" cy="201" r="7" fill="#22d3ee"/><circle cx="609" cy="117" r="7" fill="#22d3ee"/><circle cx="635" cy="97" r="7" fill="#22d3ee"/><circle cx="660" cy="109" r="7" fill="#22d3ee"/><circle cx="685" cy="142" r="7" fill="#22d3ee"/>
+  <rect x="46" y="48" width="120" height="5" rx="2" fill="#22d3ee"/>
+  <text x="46" y="122" fill="#86dfff" font-family="Arial,sans-serif" font-size="24" letter-spacing="3">VISIÓN POR COMPUTADOR</text>
+  <text x="46" y="197" fill="#fff" font-family="Arial,sans-serif" font-size="51" font-weight="700">Control por</text>
+  <text x="46" y="257" fill="#fff" font-family="Arial,sans-serif" font-size="51" font-weight="700">gestos</text>
+  <text x="48" y="340" fill="#b9d5ea" font-family="Arial,sans-serif" font-size="22">Python  ·  OpenCV  ·  MediaPipe</text>
+</svg>

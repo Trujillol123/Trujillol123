@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Trujillol123?tab=repositories">Repositorios</a> ·
-  <a href="#-proyectos-destacados">Proyectos</a> ·
-  <a href="#-tecnolog%C3%ADas-y-herramientas">Tecnologías</a>
+  <a href="https://www.linkedin.com/in/jhojan-trujillo-56975413a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn de Jhojan" /></a>
+  <a href="https://github.com/Trujillol123?tab=repositories"><img src="https://img.shields.io/badge/Mis_repositorios-16263F?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Repositorios de GitHub" /></a>
 </p>
 
 ---
@@ -25,35 +24,39 @@ Soy **Jhojan Stiven Trujillo García**, estudiante de Ingeniería de Sistemas. M
 
 ## 🧰 Tecnologías y herramientas
 
-**Lenguajes y bases de datos**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,mysql,opencv,tensorflow,qt,git,github&amp;perline=8" alt="Python, Java, MySQL, OpenCV, TensorFlow, Qt, Git y GitHub" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-16263F?style=for-the-badge&logo=python&logoColor=FFE873)
-![Java](https://img.shields.io/badge/Java-16263F?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-16263F?style=for-the-badge&logo=mysql&logoColor=7FC8F8)
-![MySQL](https://img.shields.io/badge/MySQL-16263F?style=for-the-badge&logo=mysql&logoColor=7FC8F8)
-
-**Aplicaciones e inteligencia artificial**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-16263F?style=for-the-badge&logo=opencv&logoColor=5CFF8F)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-16263F?style=for-the-badge&logo=google&logoColor=7DD3FC)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-16263F?style=for-the-badge&logo=tensorflow&logoColor=FFAA45)
-![PySide6](https://img.shields.io/badge/PySide6-16263F?style=for-the-badge&logo=qt&logoColor=66DD88)
-![Java Swing](https://img.shields.io/badge/Java_Swing-16263F?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Datos y flujo de trabajo**
-
-![Power BI](https://img.shields.io/badge/Power_BI-16263F?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Git](https://img.shields.io/badge/Git-16263F?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-16263F?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-16263F?style=for-the-badge&logo=apachemaven&logoColor=EF6671)
+| Área | Herramientas que he usado |
+| :-- | :-- |
+| **Programación y datos** | Python, Java, SQL, MySQL y Power BI |
+| **Visión por computador e IA** | OpenCV, MediaPipe y TensorFlow |
+| **Interfaces y desarrollo** | PySide6, Java Swing, Maven, Git y GitHub |
 
 ## 🚀 Proyectos destacados
 
-| Proyecto | Qué construí | Tecnologías |
-| :-- | :-- | :-- |
-| [Control por gestos](https://github.com/Trujillol123/gesture-control-system) | Sistema experimental para reconocer movimientos de la mano y controlar el cursor, con interfaz de escritorio. | Python · OpenCV · MediaPipe · TensorFlow · PySide6 |
-| [Gestión de tienda de zapatos](https://github.com/Trujillol123/GESTION-DE-VENTAS-Y-COMPRAS-TIENDA-DE-ZAPATOS) | Aplicación académica para gestionar productos, compras, ventas y clientes. | Java · Swing · MySQL · Maven |
-| [Ecuaciones diferenciales](https://github.com/Trujillol123/ecuaciones_diferenciales) | Herramienta en Python para clasificar ecuaciones y mostrar el proceso de resolución. | Python |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Trujillol123/gesture-control-system"><img src="./assets/gesture.svg" alt="Ver Control por gestos" width="100%" /></a>
+      <p>Reconocimiento de movimientos de la mano para controlar el cursor con una interfaz de escritorio.</p>
+      <p><a href="https://github.com/Trujillol123/gesture-control-system"><strong>Explorar el código →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Trujillol123/GESTION-DE-VENTAS-Y-COMPRAS-TIENDA-DE-ZAPATOS"><img src="./assets/tienda.svg" alt="Ver Gestión de tienda" width="100%" /></a>
+      <p>Aplicación académica para gestionar productos, compras, ventas y clientes de una tienda de zapatos.</p>
+      <p><a href="https://github.com/Trujillol123/GESTION-DE-VENTAS-Y-COMPRAS-TIENDA-DE-ZAPATOS"><strong>Explorar el código →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <a href="https://github.com/Trujillol123/ecuaciones_diferenciales"><img src="./assets/ecuaciones.svg" alt="Ver Ecuaciones diferenciales" width="50%" /></a>
+      <p>Herramienta en Python para clasificar ecuaciones y mostrar el proceso de resolución.</p>
+      <p><a href="https://github.com/Trujillol123/ecuaciones_diferenciales"><strong>Explorar el código →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 ## 📚 Lo que estoy explorando
 
@@ -65,5 +68,6 @@ Soy **Jhojan Stiven Trujillo García**, estudiante de Ingeniería de Sistemas. M
 
 <p align="center">
   <strong>Aprendiendo, construyendo y mejorando proyecto a proyecto.</strong><br/>
-  <a href="https://github.com/Trujillol123?tab=repositories">Explora mis repositorios →</a>
+  <a href="https://github.com/Trujillol123?tab=repositories">Explora mis repositorios</a> ·
+  <a href="https://www.linkedin.com/in/jhojan-trujillo-56975413a/">Conectemos en LinkedIn</a>
 </p>

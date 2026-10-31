@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-label="Proyecto Ecuaciones diferenciales">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#101b38"/><stop offset="1" stop-color="#294064"/></linearGradient></defs>
+  <rect width="800" height="420" rx="26" fill="url(#g)"/>
+  <path d="M473 301h270M502 329V86" stroke="#7ac7e3" stroke-width="3" opacity=".6"/>
+  <path d="M503 286c36-5 45-34 65-72 18-33 40-62 68-56 30 7 33 79 91 83" fill="none" stroke="#28d5ef" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="568" cy="214" r="7" fill="#fff"/><circle cx="636" cy="158" r="7" fill="#fff"/><circle cx="727" cy="241" r="7" fill="#fff"/>
+  <rect x="46" y="48" width="120" height="5" rx="2" fill="#22d3ee"/>
+  <text x="46" y="122" fill="#86dfff" font-family="Arial,sans-serif" font-size="24" letter-spacing="3">HERRAMIENTA ACADÉMICA</text>
+  <text x="46" y="197" fill="#fff" font-family="Arial,sans-serif" font-size="51" font-weight="700">Ecuaciones</text>
+  <text x="46" y="257" fill="#fff" font-family="Arial,sans-serif" font-size="51" font-weight="700">diferenciales</text>
+  <text x="48" y="340" fill="#b9d5ea" font-family="Arial,sans-serif" font-size="22">Python  ·  resolución paso a paso</text>
+</svg>

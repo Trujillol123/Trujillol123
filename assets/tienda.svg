@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-label="Proyecto Gestión de tienda de zapatos">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#102038"/><stop offset="1" stop-color="#24415f"/></linearGradient></defs>
+  <rect width="800" height="420" rx="26" fill="url(#g)"/>
+  <rect x="474" y="77" width="262" height="244" rx="17" fill="#122a45" stroke="#4b91ba" stroke-width="3"/>
+  <rect x="501" y="105" width="208" height="42" rx="8" fill="#1b4c6c"/>
+  <circle cx="523" cy="126" r="8" fill="#22d3ee"/><path d="M545 126h133" stroke="#95cde4" stroke-width="7" stroke-linecap="round"/>
+  <rect x="501" y="169" width="92" height="62" rx="8" fill="#236084"/><rect x="614" y="169" width="95" height="62" rx="8" fill="#236084"/>
+  <path d="M515 214c20-25 40-17 62-28M629 207c20-15 36-22 60-18" fill="none" stroke="#62d8f6" stroke-width="5" stroke-linecap="round"/>
+  <path d="M505 273h190" stroke="#4d8eae" stroke-width="8" stroke-linecap="round"/>
+  <rect x="46" y="48" width="120" height="5" rx="2" fill="#22d3ee"/>
+  <text x="46" y="122" fill="#86dfff" font-family="Arial,sans-serif" font-size="24" letter-spacing="3">APLICACIÓN DE ESCRITORIO</text>
+  <text x="46" y="197" fill="#fff" font-family="Arial,sans-serif" font-size="51" font-weight="700">Gestión de</text>
+  <text x="46" y="257" fill="#fff" font-family="Arial,sans-serif" font-size="51" font-weight="700">tienda</text>
+  <text x="48" y="340" fill="#b9d5ea" font-family="Arial,sans-serif" font-size="22">Java  ·  Swing  ·  MySQL</text>
+</svg>
